@@ -1,7 +1,5 @@
 # Water_Quality_Prediction
 
-# Water Quality Prediction - RMS
-
 This project aims to predict multiple water quality parameters using machine learning techniques, specifically `MultiOutputRegressor` wrapped around a `RandomForestRegressor`. It was developed as part of a one-month **AICTE Virtual Internship sponsored by Shell** in **June 2025**.
 
 ---
@@ -54,5 +52,5 @@ Performance was acceptable across all parameters
 
 ## Model link: 
 
-```https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing```
+```https://drive.google.com/file/d/1YlqaXZ4Brb0vKEv1qa72zMAY72acZA2V/view?usp=sharing```
 
