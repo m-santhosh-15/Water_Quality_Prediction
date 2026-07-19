@@ -43,3 +43,7 @@ An end-to-end Machine Learning web application designed to predict water potabil
 3. Run the Streamlit web application:
    ```bash
     streamlit run app.py
+## 👤 Author
+- **Mendu Sri Lalitha Santhosh** 
+  - GitHub: [@m-santhosh-15](https://github.com/m-santhosh-15)
+  - LinkedIn: [Mendu Sri Lalitha Santhosh](https://www.linkedin.com/in/mendusanthosh)
